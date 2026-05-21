@@ -1,4 +1,4 @@
-# 🚀 Exercícios Práticos: Lógica de Programação com Python
+#  Exercícios Práticos: Lógica de Programação com Python
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
@@ -21,7 +21,7 @@
 
 <blockquote>
   <p align="justify">
-    <strong>💡 Abordagem Prática:</strong> O código tem como objetivo percorrer todos os números de 0 até 100 e identificar se cada valor é par ou ímpar. Para isso, foi utilizada a estrutura de repetição <code>for</code> junto da função <code>range(0, 101)</code>, responsável por gerar a sequência numérica. Durante cada repetição, o programa aplica uma verificação utilizando o operador módulo <code>%</code>, que retorna o resto da divisão do número por 2. Quando o resultado da operation é igual a 0, o número é classificado como par, caso contrário, é considerado ímpar. Em seguida, o programa exibe uma mensagem formatada informando o número analisado e sua respectiva classificação.
+    <strong>💡 Abordagem Prática:</strong> O código tem como objetivo percorrer todos os números de 0 até 100 e identificar se cada valor é par ou ímpar. Para isso, foi utilizada a estrutura de repetição <code>for</code> junto da função <code>range(0, 101)</code>, responsável por gerar a sequência numérica. Durante cada repetição, o programa aplica uma verificação utilizando o operador módulo <code>%</code>, que retorna o resto da divisão do número por 2. Quando o resultado da operação é igual a 0, o número é classificado como par, caso contrário, é considerado ímpar. Em seguida, o programa exibe uma mensagem formatada informando o número analisado e sua respectiva classificação.
   </p>
 </blockquote>
 
