@@ -45,7 +45,7 @@
 
 <blockquote>
   <p align="justify">
-    <strong>💡 Abordagem Prática:</strong> Este código solicita o nome do usuário e calcula a quantidade de caracteres usando a função <code>len()</code>. Através de uma estrutura de repetição <code>for</code> combinada com o fatiamento de strings (<em>slicing</em>), o programa exibe o nome de forma progressiva e vertical, adicionando uma letra a mais a cada linha até completar o nome.
+    <strong>💡 Abordagem Prática:</strong> Este código solicita o nome do usuário e calcula a quantidade de caracteres usando a função <code>len()</code>. Através de uma estrutura de repetição <code>for</code> combinada com o fatiamento de strings, o programa exibe o nome de forma progressiva e vertical, adicionando uma letra a mais a cada linha até completar o nome.
   </p>
 </blockquote>
 
