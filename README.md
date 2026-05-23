@@ -25,7 +25,7 @@
   </p>
 </blockquote>
 
-### 📋 Exercício 2: Identificação de Maior e Menor da Lista (Exerc-2.py)
+### 📋 Exercício 2: Identificação de Maior e Menor da Lista 
 
 <p align="center">
   <img width="500" alt="Código Exercício 2" src="https://github.com/user-attachments/assets/47349ede-af7b-4a3b-9422-6053c1dbb24d" />
@@ -33,7 +33,7 @@
 
 <blockquote>
   <p align="justify">
-    <strong>💡 Explicação Técnica:</strong> O programa recebe três números inteiros do usuário e os armazena em uma lista. Em seguida, utiliza o método <code>.sort()</code> para ordenar os elementos em ordem crescente. Com a lista ordenada, o sistema identifica o menor número no índice zero <code>[0]</code> e o maior número no último índice <code>[2]</code>, exibindo os resultados formatados na tela. <code>[2]</code>.
+    <strong>💡 Explicação Técnica:</strong> O programa recebe três números inteiros do usuário e os armazena em uma lista. Em seguida, utiliza o método <code>.sort()</code> para ordenar os elementos em ordem crescente. Com a lista ordenada, o sistema identifica o menor número no índice zero <code>[0]</code> e o maior número no último índice <code>[2]</code>, exibindo os resultados formatados na tela. </code>.
   </p>
 </blockquote>
 
