@@ -207,8 +207,6 @@
 </table>
 
 ---
-<p align="center">Desenvolvido com 🐍 por <strong>Gabriel Fachinello</strong></p>
-
 
 
 
